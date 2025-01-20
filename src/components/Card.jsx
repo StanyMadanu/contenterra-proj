@@ -29,7 +29,7 @@ const Card = () => {
   return (
     <div className="container-fluid my-4">
       <div className="text-end bg-dark rounded p-3">
-        <h5 className="mb-0 text-white">Stany Madanu (Frontend Developer)</h5>
+        <h5 className="mb-0 text-white">Stany Madanu (React Developer)</h5>
         <div>
           <span className="text-white me-2">
             <IoMdMail />
@@ -88,7 +88,7 @@ const Card = () => {
             </div>
           ))
         ) : (
-          <h5 className="text-center text-white">
+          <h5 className="text-center text-white mt-4">
             Fetching Data... Please Wait 🤗💚
           </h5>
         )}
