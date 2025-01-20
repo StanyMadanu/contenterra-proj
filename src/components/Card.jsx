@@ -80,7 +80,7 @@ const Card = () => {
                       target="blank"
                       className="text-decoration-none text-white"
                     >
-                      Click Me
+                      Read More
                     </a>
                   </button>
                 </div>
